@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm minho shin</h1>
 <h3 align="center">A passionate frontend developer from republic of korea</h3>
+<h4 align="center">Connect with me: tlsalsgh777@naver.com</h4>
 
 - 🔭 I’m currently working on [main-project](https://github.com/OZ-Coding-School/oz_01_main-004-FE/tree/main)
 
@@ -9,7 +10,6 @@
 
 - 💬 Ask me about **react**
 
-<h3 align="center">Connect with me: tlsalsgh777@naver.com</h3>
 
 <p align="center">
 </p>
