@@ -1,20 +1,7 @@
-<h1 align="center">Hi 👋, I'm minho shin</h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=76BAF7&background=FFEBC100&center=true&vCenter=true&random=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+minho+shin" alt="Typing SVG" /></a> </h1>
+
 <h3 align="center">A passionate frontend developer from republic of korea</h3>
-<h4 align="center">Connect with me: tlsalsgh777@naver.com</h4>
 
-- 🔭 I’m currently working on [main-project](https://github.com/OZ-Coding-School/oz_01_main-004-FE/tree/main)
-
-- 🌱 I’m currently learning **Next.js**
-
-- 📝 I regularly write articles on [https://dailycoding777.tistory.com/](https://dailycoding777.tistory.com/)
-
-- 💬 Ask me about **react**
-
-
-<p align="center">
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -27,11 +14,24 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
   </p>
+
+
+<h4 align="center">Connect with me: tlsalsgh777@naver.com</h4>
+
+<h5 align="center">🔭 I’m currently working on <a href="https://github.com/OZ-Coding-School/oz_01_main-004-FE/tree/main">main-project</a></h5>
+<h5 align="center">📝 I regularly write articles on <a href="https://dailycoding777.tistory.com/](https://dailycoding777.tistory.com/">데일리코딩</a> </h5>
+<h5 align="center">🌱 I’m currently learning **Next.js**</h5>
+
+
+<p align="center">
+</p>
+
+
+  
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhoshin11&show_icons=true&locale=en&layout=compact" alt="minhoshin11" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhoshin11&" alt="minhoshin11" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhoshin11&show_icons=true&locale=en" alt="minhoshin11" /></p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhoshin11&" alt="minhoshin11" /></p>
