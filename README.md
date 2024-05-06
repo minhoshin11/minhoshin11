@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm minho shin</h1>
 <h3 align="center">A passionate frontend developer from republic of korea</h3>
 <h4 align="center">Connect with me: tlsalsgh777@naver.com</h4>
-<p align="center">
+
 - 🔭 I’m currently working on [main-project](https://github.com/OZ-Coding-School/oz_01_main-004-FE/tree/main)
 
 - 🌱 I’m currently learning **Next.js**
@@ -9,7 +9,7 @@
 - 📝 I regularly write articles on [https://dailycoding777.tistory.com/](https://dailycoding777.tistory.com/)
 
 - 💬 Ask me about **react**
-</p>
+
 
 <p align="center">
 </p>
