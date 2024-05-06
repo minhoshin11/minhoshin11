@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react**
 
-<h3 align="left">Connect with me: **tlsalsgh777@naver.com**</h3>
+<h3 align="left">Connect with me: tlsalsgh777@naver.com</h3>
 
 <p align="left">
 </p>
