@@ -17,11 +17,11 @@
   </p>
 
 
-<h4 align="center">Connect with me: tlsalsgh777@naver.com</h4>
+<h3 align="center">Connect with me: tlsalsgh777@naver.com</h3>
 
-<h5 align="center">🔭 I’m currently working on <a href="https://github.com/OZ-Coding-School/oz_01_main-004-FE/tree/main">main-project</a></h5>
-<h5 align="center">📝 I regularly write articles on <a href="https://dailycoding777.tistory.com/](https://dailycoding777.tistory.com/">데일리코딩</a> </h5>
-<h5 align="center">🌱 I’m currently learning **Next.js**</h5>
+<h4 align="center">🔭 I’m currently working on <a href="https://github.com/OZ-Coding-School/oz_01_main-004-FE/tree/main">main-project</a></h4>
+<h4 align="center">📝 I regularly write articles on <a href="https://dailycoding777.tistory.com/](https://dailycoding777.tistory.com/">데일리코딩</a> </h4>
+<h4 align="center">🌱 I’m currently learning **Next.js**</h4>
 
 
 <p align="center">
