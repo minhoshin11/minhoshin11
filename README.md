@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **tlsalsgh777@naver.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:**tlsalsgh777@naver.com**</h3>
 <p align="left">
 </p>
 
