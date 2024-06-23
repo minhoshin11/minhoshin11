@@ -17,11 +17,12 @@
 
 <h3 align="center">Contact me: tlsalsgh777@naver.com </h3>
 
-<h4 align="center">🔭 I’m currently working on <a href="https://github.com/minhoshin11/board">board</a></h4>
+<h4 align="center">🔭 I’m currently working on <a href="https://github.com/minhoshin11/board">Board</a></h4>
 <h4 align="center">📝 I regularly write articles on <a href="https://dailycoding777.tistory.com/">데일리코딩</a> </h4>
 <h4 align="center">🌱 I’m currently learning **Next.js**</h4>
 
 <p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minhoshin11&theme=meta-dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhoshin11&show_icons=true&locale=en" alt="minhoshin11" /></p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minhoshin11&theme=react)](https://github.com/minhoshin11/github-readme-activity-graph)
