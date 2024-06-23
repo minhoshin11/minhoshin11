@@ -15,21 +15,14 @@
 <a href="https://www.figma.com/ " target="_blank" rel="noreferrer"> <img src="https://ww.vector logo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" high="40"/> </a>
  </p>
 
-
 <h3 align="center">연결하기: tlsalsgh777@naver.com </h3>
 
-<h4 align="center">🔭 현재 <a href="https://github.com/minhoshin11/board"> 게시판 만들기 </a><h4>
-<h4 align="center">📝 정기적으로 <a href="https://dailycoding777.tistory.com/ ">데일리코딩</a></h4>에 글을 씁니다
-<h4 align="center">🌱 현재 **Next.js**/h4>를 배우고 있습니다.
-
+<h4 align="center">🔭 I’m currently working on <a href="https://github.com/OZ-Coding-School/oz_01_main-004-FE/tree/main">main-project</a></h4>
+<h4 align="center">📝 I regularly write articles on <a href="https://dailycoding777.tistory.com/](https://dailycoding777.tistory.com/">데일리코딩</a> </h4>
+<h4 align="center">🌱 I’m currently learning **Next.js**</h4>
 
 <p align="center">
 </p>
-
-
-  
-
-
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=minh오신11&show_icons=true&locale=en" alt="minh오신11" /></p>
 
