@@ -18,7 +18,7 @@
 
 <h3 align="center">Contact me: tlsalsgh777@naver.com </h3>
 
-<h4 align="center">🔭 I’m currently working on <a href="https://github.com/minhoshin11/board">Board</a></h4>
+<h4 align="center">🔭 I’m currently working on <a href="https://github.com/minhoshin11/blog-react-node">Blog(React/node)</a></h4>
 <h4 align="center">📝 I regularly write articles on <a href="https://dailycoding777.tistory.com/">데일리코딩</a> </h4>
 <h4 align="center">🌱 I’m currently learning **Next.js**</h4>
 
